@@ -1,2 +1,3 @@
 # exerciceFork
-Bibou math
+
+on efface tout
